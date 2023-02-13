@@ -1,2 +1,1 @@
-# HTML-Curso-em-video
- Exercícios de HTML (Plataforma: Curso em Vídeo)
+ Exercícios de HTML5 E CSS3 (Plataforma: Curso em Vídeo)
